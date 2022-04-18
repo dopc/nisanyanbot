@@ -32,6 +32,8 @@ updater.start_polling()
 ################################################################
 
 print("hello world")
+print("kotu oldugu icin ozur dilerim xd")
+
 def get_results(word: str) -> List[InlineQueryResultArticle]:
     results = list()
     first_result = find_description(word)
