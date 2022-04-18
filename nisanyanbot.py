@@ -31,7 +31,7 @@ updater.start_polling()
 #                           HELPERS   
 ################################################################
 
-
+print("AtacanTest branchinde olan degisiklikler aptalca")
 def get_results(word: str) -> List[InlineQueryResultArticle]:
     results = list()
     first_result = find_description(word)
