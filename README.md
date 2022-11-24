@@ -1,7 +1,7 @@
 # nisanyanbot
 
 	- Note:
-	  nisanyanbot does not work since August 2020, because of lack of server.
+	  nisanyanbot does not work anymore, since change of nisanyansozluk.com
 
 an inline python Telegram bot for [nisanyansozluk.com](https://www.nisanyansozluk.com/).
 To access the bot get the [bot link](https://t.me/nisanyanbott).
